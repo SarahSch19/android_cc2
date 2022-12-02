@@ -7,4 +7,7 @@
     <string name="status_completed">Completed</string>
     <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</string>
     <string name="no_bookings">You have no bookings yet</string>
+    <string name="parking_receipt">Parking Receipt</string>
+    <string name="parking_name">Surdiman district space</string>
+    <string name="parking_address">This is the address</string>
 </resources>
