@@ -5,4 +5,6 @@
     <string name="status_on_process">On Process</string>
     <string name="status_upcoming">Upcoming</string>
     <string name="status_completed">Completed</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</string>
+    <string name="no_bookings">You have no bookings yet</string>
 </resources>
